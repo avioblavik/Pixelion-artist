@@ -1,0 +1,1 @@
+Pixel Art Creator is a simple web application that allows users to create pixel art by drawing on a customizable grid. Users can select colors, draw by clicking and dragging, and reset the grid to start over. Perfect for practicing creativity or experimenting with pixel-based designs!
